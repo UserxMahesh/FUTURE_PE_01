@@ -1,0 +1,15 @@
+Act as a professional website copywriter.
+
+Create website copy for a beauty salon called Future Salon & Spa.
+
+Include:
+- Homepage
+- About Us
+- Services
+- Contact Us
+- Call To Action
+
+Tone:
+- Professional
+- Friendly
+- Conversion-focused
