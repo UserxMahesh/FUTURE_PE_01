@@ -5,7 +5,7 @@ Welcome to Future Salon & Spa
 Beauty • Haircare • Skincare • Spa Services
 
 About Us
-Future Salon & Spa is dedicated to helping clients look and feel their best through professional beauty and wellness services.
+Future Salon & Spa is dedicated to helping clients look and feel their best through professional beauty and wellness services. Our experienced team provides haircare, skincare, makeup, and spa treatments in a comfortable and hygienic environment.
 
 Services
 - Haircuts
@@ -21,7 +21,6 @@ Email: futuresalon@gmail.com
 Book Your Appointment Today
 
 Why Choose Us
-
 - Experienced Beauty Professionals
 - Premium Quality Products
 - Hygienic Environment
